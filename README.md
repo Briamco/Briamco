@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Briam Carlos Gonzalez Del Rosario 👋
 
-<!--
-**Briamco/Briamco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web en formación, apasionado por aprender y crear soluciones digitales. Actualmente me estoy especializando en desarrollo Full Stack con HTML, CSS, y JavaScript.
 
-Here are some ideas to get you started:
+### Tecnologías que utilizo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos:
+- [Portafolio personal](https://github.com/usuario/portafolio)
+- [Sistema de reservaciones para salones](https://github.com/usuario/reservaciones)
+
+### Contáctame:
+- [LinkedIn](https://linkedin.com/in/tuusuario)
+- [Correo electrónico](mailto:tuemail@correo.com)
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
