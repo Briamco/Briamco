@@ -33,13 +33,13 @@ I am a web developer in training, passionate about learning and creating digital
 - **[Personal Page](https://briamco.github.io/challenge1/)**  
   A personal website showcasing my portfolio and projects. I utilized Flexbox for layout management and added smooth transitions to enhance user experience.
 
-- **[Weekly Schedule](https://codepen.io/Briam-Gonzalez/pen/Exqgppr)**  
+- **[Weekly Schedule](https://briamco.github.io/WeeklySchedule)**  
   An interactive weekly schedule where users can organize their weekly activities. This project was built using HTML, CSS, and JavaScript, with a focus on dynamic interaction through DOM manipulation.
 
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briamcoo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briamco&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=briamco&layout=compact&theme=radical)
 
