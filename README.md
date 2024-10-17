@@ -16,13 +16,14 @@ I am a web developer in training, passionate about learning and creating digital
 
 ### 🛠️ Technologies & Tools:
 - HTML5 & CSS3 (Flexbox, Grid)
+- Tailwindcss
 - JavaScript (ES6+)
 - Git & GitHub
 - Responsive Web Design
 - Visual Studio Code (VSCode)
 - Figma
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" />
 
 ---
 
