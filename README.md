@@ -23,7 +23,7 @@ I am a web developer in training, passionate about learning and creating digital
 - Visual Studio Code (VSCode)
 - Figma
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40px" /> 
 
 ---
 
@@ -32,8 +32,8 @@ I am a web developer in training, passionate about learning and creating digital
 - **[Landing Page Template](https://briamco.github.io/LandingPage/)**  
   A responsive landing page built with HTML and CSS. This project helped me practice layout design and responsiveness, ensuring compatibility across devices.
 
-- **[Personal Page](https://briamco.github.io/challenge1/)**  
-  A personal website showcasing my portfolio and projects. I utilized Flexbox for layout management and added smooth transitions to enhance user experience.
+- **[ToDo App](https://briamco.github.io/ToDoApp/)**  
+  A task management web app built with Tailwind CSS, Vite, and vanilla JavaScript. Designed as a Progressive Web App (PWA) for a native-like experience on Android, it features a clean, responsive interface with a dark mode for enhanced usability.
 
 - **[Weekly Schedule](https://briamco.github.io/WeeklySchedule)**  
   An interactive weekly schedule where users can organize their weekly activities. This project was built using HTML, CSS, and JavaScript, with a focus on dynamic interaction through DOM manipulation.
