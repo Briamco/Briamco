@@ -18,6 +18,7 @@ I am a web developer in training, passionate about learning and creating digital
 - HTML5 & CSS3 (Flexbox, Grid)
 - Tailwindcss
 - JavaScript (ES6+)
+- Vite
 - Git & GitHub
 - Responsive Web Design
 - Visual Studio Code (VSCode)
