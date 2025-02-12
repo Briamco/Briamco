@@ -23,21 +23,23 @@ I am a web developer in training, passionate about learning and creating digital
 - Responsive Web Design
 - Visual Studio Code (VSCode)
 - Figma
+- Flutter
+- Node JS
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> <img src="https://logospng.org/download/figma/figma-4096.png" width="40px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" width="40px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40px" /> <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" width="40px" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-1024.png" width="40px" />
 
 ---
 
 ### 💻 Projects:
 
-- **[Landing Page Template](https://briamco.github.io/LandingPage/)**  
-  A responsive landing page built with HTML and CSS. This project helped me practice layout design and responsiveness, ensuring compatibility across devices.
+- **[Api Ecommerce](https://github.com/Briamco/ecommerce-API)**  
+  A api for get data form a data base for a ecommerce
 
-- **[ToDo App](https://briamco.github.io/ToDoApp/)**  
-  A task management web app built with Tailwind CSS, Vite, and vanilla JavaScript. Designed as a Progressive Web App (PWA) for a native-like experience on Android, it features a clean, responsive interface with a dark mode for enhanced usability.
+- **[Learning React](https://github.com/Briamco?tab=repositories)**  
+  On this repository, I have multiple project from the midudev course about React
 
-- **[Weekly Schedule](https://briamco.github.io/WeeklySchedule)**  
-  An interactive weekly schedule where users can organize their weekly activities. This project was built using HTML, CSS, and JavaScript, with a focus on dynamic interaction through DOM manipulation.
+- **[Money Tracker](https://github.com/Briamco/money_tracker)**  
+  Here is a money tracker app in flutter
 
 ---
 
