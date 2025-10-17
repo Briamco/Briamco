@@ -37,14 +37,14 @@ I am a web developer in training, passionate about learning and creating digital
 
 ### 💻 Projects:
 
-- **[Api Ecommerce](https://github.com/Briamco/ecommerce-API)**  
-  A api for get data form a data base for a ecommerce
+- **[RuletaCsharp](https://github.com/Briamco/RuletaCshrap)**  
+  A C# console app that randomly selects students and assigns customizable roles for class activities
 
-- **[Learning React](https://github.com/Briamco?tab=repositories)**  
-  On this repository, I have multiple project from the midudev course about React
-
-- **[Money Tracker](https://github.com/Briamco/money_tracker)**  
-  Here is a money tracker app in flutter
+- **[Thorfins](https://github.com/Briamco/thorfins)**  
+  Here is a money tracker webapp
+  
+- **[Thorfins API](https://github.com/Briamco/thorfins-api)**  
+  Here is a money tracker web api
 
 ---
 
